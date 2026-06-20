@@ -10,7 +10,7 @@
     "lint": "eslint '**/*.ts{x,}'"
   },
   "dependencies": {
-    "axios": "^0.23.0",
+    "axios": "^0.33.0",
     "formik": "^2.2.9",
     "next": "11.1.2",
     "react": "17.0.2",
